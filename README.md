@@ -75,6 +75,14 @@ Final Output → *Classify OR Refer*
 * Total Images: **2000**
 * Classes: **5 (balanced)**
 
+### 🔗 Dataset Link
+The dataset used in this project is publicly available on Kaggle:
+
+https://www.kaggle.com/datasets/ahsanneural/rare-neurological-diseases-mri-curated-edition
+
+> Note: Due to size limitations, the dataset is not included in this repository. Please download it manually and place it in the `data/` directory before running the code.
+  
+
 | Class                            | Images |
 | -------------------------------- | ------ |
 | Fukuyama Muscular Dystrophy      | 400    |
